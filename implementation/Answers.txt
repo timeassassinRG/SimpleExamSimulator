@@ -1,0 +1,19 @@
+A vero;B falso
+A vero;B falso
+A vero;B falso
+A Il suono permette la trasmissione dell'audio;B L'audio permette la trasmissione del suono
+A prima a scrivere, poi a leggere;B ovviamente prima a leggere, poi a scrivere
+A L'onda e' spostamento di energia cui non e' associato spostamento di materia;B L'onda e' spostamento di materia cui non e' associato spostamento di energia;C L'onda e' spostamento di energia cui e' associato spostamento di materia;D L'onda e' spostamento di materia cui e' associato spostamento di energia
+A Mezzo di propagazione;B Forma d'onda;C Direzione di spostamento dell'energia;D Direzione di oscillazione delle particelle;E Periodicita'
+A Mezzo di propagazione;B Forma d'onda;C Solo direzione di spostamento dell'energia;D Solo direzione di oscillazione delle particelle;E Periodicita';F Nessuna delle precedenti
+A Mezzo di propagazione;B Forma d'onda;C Solo direzione di spostamento dell'energia;D Solo direzione di oscillazione delle particelle;E Periodicita';F Nessuna delle precedenti
+A Mezzo di propagazione;B Forma d'onda;C Solo direzione di spostamento dell'energia;D Solo direzione di oscillazione delle particelle;E Periodicita';F Nessuna delle precedenti
+A Strumento musicale;B Mezzo di propagazione;C Silenzio;D Un rivelatore sonoro (ad es. l'orecchio);E Un corpo vibrante;F Una cassa audio
+A Volume del suono;B Energia trasportata dall'onda;C Intensita' del suono;D Altezza del suono;E Spazializzazione del suono
+A Volume del suono;B Energia trasportata dall'onda;C Intensita' del suono;D Altezza del suono;E Spazializzazione del suono
+A Volume del suono;B Energia trasportata dall'onda;C Intensita' del suono;D Altezza del suono;E Spazializzazione del suono
+A Si ripete 30 volte al minuto;B Si ripete 30 volte;C Si ripete 30 volte al secondo;D Ha un periodo pari a 0.33 s;E Ha un periodo pari a 0.033 s
+A m;B mm;C nm ;D W
+A 3;B 12;C 6;D 4
+A 3;B 12;C 6;D 4
+A 3;B 12;C 6;D 4
