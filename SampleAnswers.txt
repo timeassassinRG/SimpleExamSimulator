@@ -1,0 +1,4 @@
+A true;B false
+A true;B True
+A true;B True
+A option1;B option2;C option3;D option4
